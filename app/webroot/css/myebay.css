@@ -1,0 +1,228 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+#sellble-container-div{
+    background: url(http://vkrm.ch/rph/img/dimension.png) !important;
+    background-repeat: repeat !important;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14px !important;
+}
+
+#sellble-container-div a{
+    text-decoration: none !important;
+    color:#d52670 !important;
+}
+
+#sellble-container-div .sellble-main-div{
+    color: #262626 !important;
+    padding:5px !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    width:980px !important;
+    overflow:hidden !important;
+}
+
+#sellble-container-div .sellble-main-div .sellble-top-contact-div{
+    float: left !important;
+    width: 100% !important;
+    text-align: center !important;
+    display: table-cell !important;
+    vertical-align:middle !important
+}
+
+#sellble-container-div .sellble-main-div .sellble-top-contact-div a{
+    text-decoration: none !important;
+    color:#d52670 !important;
+}
+
+#sellble-container-div .sellble-top-logos-div{
+    width: 100% !important;
+    text-align: center !important;
+}
+
+#sellble-container-div .sellble-top-logos-div a{
+    text-decoration:none !important;
+    border:none !important;
+}
+
+#sellble-container-div .sellble-top-logos-div img{
+    text-decoration:none !important;
+    border:none !important;
+}
+
+#sellble-container-div .sellble-top-after-logo-icons{
+    float: left !important;
+    width: 100% !important;
+    text-align:center !important;
+}
+
+#sellble-container-div .sellble-p{
+    margin-top: 10px !important;
+    line-height: 150% !important
+}
+
+#sellble-container-div .sellble-seals-td{
+    width: 10%;
+    text-align: center;
+}
+
+#sellble-container-div .sellble-seals-td img{
+    width: 95% !important;
+    vertical-align: middle !important;
+}
+
+#sellble-container-div table{
+    width: 100% !important;
+}
+
+#sellble-container-div .sellble-seals-text-td{
+    padding-left: 10px !important;
+    width: 40% !important;
+    font-size: 11px !important;
+    vertical-align: middle !important;
+}
+
+#sellble-container-div .sellble-spec-table{
+    width: 100% !important;
+}
+
+#sellble-container-div .sellble-spec-subgroup-td{
+    color:#262626!important;
+    padding:5px!important;
+    background:none!important;
+    text-align:left!important;
+    font-size:12px!important;
+    border-bottom: 1px solid #e3e3e3!important;
+}
+
+#sellble-container-div .sellble-spec-name-td{
+    color:#262626!important;
+    padding:5px!important;
+    background:none!important;
+    font-size: 12px!important;
+    width: 30%!important;
+}
+
+#sellble-container-div .sellble-spec-value-td{
+    color:#262626!important;
+    padding:5px!important;
+    background:none!important;
+    font-size: 12px!important;
+}
+
+#sellble-container-div .sellble-section-heading-1-div{
+    font-size: 20px!important;
+    font-weight: bold!important;
+    color: white!important;
+    padding: 5px!important;
+    padding-left: 10px!important;
+    background:#9d26d5!important;
+    width: 100%!important;
+    margin-top: 25px!important;
+    margin-bottom: 10px!important;
+}
+#sellble-container-div .sellble-condition-name-td{
+    font-size: 24px!important;
+    font-weight: bold!important;
+    color: white!important;
+    padding: 5px!important;
+    text-align: center!important;
+    vertical-align: middle!important;
+    background:#d52670!important;
+    width: 30% !important
+}
+
+#sellble-container-div .sellble-condition-desc-td{
+    font-size:11px !important;
+    padding: 5px !important;
+    vertical-align: middle !important;
+}
+
+#sellble-container-div .sellble-condition-desc-td li{
+    line-height: 150% !important;
+}
+
+#sellble-container-div .sellble-section-text-div{
+    width: 100% !important;
+}
+
+#sellble-container-div .sellble-photos-main-div{
+    width: 100% !important;
+}
+
+#sellble-container-div .sellble-photos-featured-div{
+    float: left !important;
+    width: 100% !important;
+}
+
+#sellble-container-div .sellble-photos-main-div img{
+    border: 2px solid #e3e3e3 !important;
+    max-width: 100% !important;
+}
+
+#sellble-container-div .sellble-photos-photo-div{
+    float:left !important;
+    width: 20% !important;
+}
+#sellble-container-div .sellble-filler-div{
+    width: 100% !important;
+    margin-top: 75px !important;
+    clear: left !important;
+}
+
+#sellble-config-div{
+    background: #e5e5e5 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 10px !important;
+    width: 20% !important;
+    position: fixed !important;
+}
+
+#sellble-config-div .sellble-options-td{
+    vertical-align: top !important;
+    font-size: 11px !important;
+    padding: 10px !important;
+}
+
+#sellble-container-div .sellble-bottom-notice-div{
+    width: 100% !important;
+    text-align: center !important;
+    font-size: 10px !important;
+}
+
+#sellble-container-div .sellble-bottom-buttons-div{
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 15px !important;
+}
+
+#sellble-container-div .sellble-bottom-buttons-span{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    padding: 5px 10px !important;
+    background:#d52670 !important;
+    width: 20% !important;
+    text-align: center !important;
+    margin-left: 10px !important;
+}
+
+#sellble-container-div .sellble-bottom-buttons-span a{
+    color: white !important;
+}
+
+#sellble-container-div .sellble-top-icons td{
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-weight: bold !important;
+    color: #d52670 !important;
+    font-size:18px !important;
+}
+
+#sellble-container-div .sellble-logos-div{
+    width: 100% !important;
+    border: none !important;
+    margin-top: 25px !important;
+}
+#sellble-container-div .sellble-logos-div img{
+    margin-top: 10px !important;
+    margin-right: 10px !important;
+}
